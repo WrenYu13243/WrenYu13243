@@ -1,4 +1,4 @@
-## Hi ere 👋
+## Hi there 👋
 
 I am Yueran Yu.
 
@@ -10,7 +10,7 @@ I've stuied:
 3. Multivariate Statistics
 4. Generalised Linear Models for Regression and Classification
 
-[Here is y tabula](https://tabula.warwick.ac.uk/profiles/view/course/2010240_2/2024/modules)
+[Here is my tabula](https://tabula.warwick.ac.uk/profiles/view/course/2010240_2/2024/modules)
 <!--
 **WrenYu13243/WrenYu13243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

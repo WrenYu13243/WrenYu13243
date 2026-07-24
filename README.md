@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am Yueran Yu.
+I am ****** **.
 
-I did my undergrad in MORSE at Warwick.
+I did my undergrad in ***** at *******.
 
 I've stuied:
 1. Neural Computing
@@ -12,7 +12,7 @@ I've stuied:
 
 I achieve a first class degree, which is good!
 
-[Here is my tabula](https://tabula.warwick.ac.uk/profiles/view/course/2010240_2/2024/modules)
+[Here is my tabula](https://tabula.warwick.ac.uk/profiles/view/course/8888888_2/2024/modules)
 
 [Here is my msc context](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
 
